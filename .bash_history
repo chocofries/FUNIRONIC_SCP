@@ -30,3 +30,16 @@ q
 
 
 
+which git
+git hekp
+git help
+git add
+git commit -m "Test2"
+git fetch
+git pull
+git add .
+git commit -m "Test 2"
+git push
+chmod u+x git-credential-osxkeychain
+sudo mv git-credential-osxkeychain `dirname `which git``
+dirname --help

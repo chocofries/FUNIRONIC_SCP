@@ -1,3 +1,5 @@
 [user]
 	name = John Bu
 	email = chocolatehotfries@gmail.com
+[credential]
+	helper = !'D:\\Users\\zheng.yu5315\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
